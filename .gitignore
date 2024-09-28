@@ -1,0 +1,11 @@
+# Ignore all compiled binaries
+*.exe    # Windows binaries
+*.out    # Common extension for Linux/macOS
+*.o      # Object files
+*.a      # Archive files
+*.so     # Shared object files (Linux/macOS)
+*.dll    # Dynamic-link library (Windows)
+*.dylib  # Dynamic library (macOS)
+
+# Ignore Go compiled binaries
+/go/bin/*
