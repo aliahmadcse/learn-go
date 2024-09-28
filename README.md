@@ -1,6 +1,6 @@
 # Learning GoLang
 
-Let's get our hand dirty with Go 🚀
+Let's get our hands dirty with Go 🚀
 
 ## Configuring GVM
 
