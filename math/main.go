@@ -6,10 +6,14 @@ import (
 )
 
 func addNumbers(numbers ...int) int {
-	var result int = 0
+	result := 0
 	for _, num := range numbers {
 		result += num
 	}
+
+	for i := 0; i < len(numbers); i++ {
+	}
+
 	return result
 }
 
