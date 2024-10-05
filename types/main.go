@@ -20,4 +20,13 @@ func main() {
 	fmt.Printf("The type of myString is %T\n", myString)
 
 	fmt.Println(PI)
+
+	var ptr *string
+
+
+	greeting := "hello world"
+	ptr = &greeting
+	fmt.Println(ptr)
+	fmt.Println(&ptr)
+	fmt.Println(*ptr)
 }
