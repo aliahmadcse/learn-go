@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learn-go/service/models"
+	"learn-go/city-service/models"
 )
 
 
