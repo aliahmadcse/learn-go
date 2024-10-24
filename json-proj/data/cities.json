@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ldn",
+    "name": "London",
+    "population": 8600000,
+    "hasBeach": true,
+    "hasMountain": true,
+    "tempC": 23
+  },
+  {
+    "id": "par",
+    "name": "Paris",
+    "population": 2148000,
+    "hasBeach": true,
+    "hasMountain": true,
+    "tempC": 18
+  },
+  {
+    "id": "nyc",
+    "name": "New York City",
+    "population": 8400000,
+    "hasBeach": true,
+    "hasMountain": false,
+    "tempC": 29
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "population": 3780000,
+    "hasBeach": false,
+    "hasMountain": true,
+    "tempC": 26
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney",
+    "population": 5430000,
+    "hasBeach": true,
+    "hasMountain": false,
+    "tempC": 17
+  }
+]
