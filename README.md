@@ -2,7 +2,7 @@
 
 Let's get our hands dirty with Go 🚀
 
-## Configuring GVM
+## Configuring GVM (GVM is not actively maintained and has issues, instead use Goland SDK manager feature)
 
 - I am using Go Version Manager (GVM) to install and manage multiple version of Golang
 - Install it using the following commands
